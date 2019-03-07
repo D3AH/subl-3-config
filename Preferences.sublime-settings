@@ -1,16 +1,17 @@
 {
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_encoding": "UTF-8",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_size": 13,
+	"font_size": 9,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Anaconda",
+		"Cheat Sheets",
 		"Indent XML",
 		"SublimeCodeIntel",
 		"Vintage"
@@ -20,12 +21,23 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"material_theme_accent_red": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_titlebar": true,
 	"rulers":
 	[
 		80,
 		120
 	],
-	"theme": "Cobalt2.sublime-theme",
+	"theme": "Material-Theme-Palenight.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": false
